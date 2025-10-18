@@ -49,3 +49,5 @@
 # In cases when we apply linear activation Function that is no activation funciton even our model
 # is going through multiple hidden layers it just gives same output as of linear regression model
 # refer to Image 5 and 6
+
+## REVISITED
